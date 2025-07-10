@@ -1,0 +1,1 @@
+# shopamania-recipe-manager
